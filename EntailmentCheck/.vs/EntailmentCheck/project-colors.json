@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08cdf20f-5a46-4b20-aff3-38524b6f1929": {
+      "ProjectGuid": "08cdf20f-5a46-4b20-aff3-38524b6f1929",
+      "DisplayName": "EntailmentCheck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

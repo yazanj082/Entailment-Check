@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntailmentCheck", "EntailmentCheck\EntailmentCheck.csproj", "{08CDF20F-5A46-4B20-AFF3-38524B6F1929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CDF20F-5A46-4B20-AFF3-38524B6F1929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CDF20F-5A46-4B20-AFF3-38524B6F1929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CDF20F-5A46-4B20-AFF3-38524B6F1929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CDF20F-5A46-4B20-AFF3-38524B6F1929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4353CE9E-C1F5-44AB-80EE-E6F74E73137A}
+	EndGlobalSection
+EndGlobal

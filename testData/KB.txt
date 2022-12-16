@@ -1,0 +1,2 @@
+if it rains or it is sunny then gletch
+if not gletch or it is sunny then normal
